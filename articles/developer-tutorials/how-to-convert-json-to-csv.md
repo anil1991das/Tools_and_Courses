@@ -24,7 +24,7 @@ JSON is widely used to exchange data between web applications, APIs, and backend
 
 Converting JSON to CSV transforms structured JSON data into rows and columns. The process is straightforward when your JSON contains an array of objects, but nested objects, arrays, missing properties, and special characters can require additional handling.
 
-In this guide, you'll learn which JSON structures can be converted to CSV, how to convert JSON step by step, and how to troubleshoot common conversion issues. You can also use the [IamNoobs JSON to CSV Converter](/json-to-csv-converter) to convert compatible JSON data.
+In this guide, you'll learn which JSON structures can be converted to CSV, how to convert JSON step by step, and how to troubleshoot common conversion issues. You can also use the [IamNoobs JSON to CSV Converter](https://iamnoobs.com/json-to-csv-converter) to convert compatible JSON data.
 
 ## When Can JSON Be Converted to CSV?
 
@@ -116,7 +116,7 @@ An online converter is useful when you need to convert data quickly without inst
 
 Follow these steps:
 
-1. Open the [IamNoobs JSON to CSV Converter](/json-to-csv-converter).
+1. Open the [IamNoobs JSON to CSV Converter](https://iamnoobs.com/json-to-csv-converter).
 2. Paste your JSON data into the input field or upload a JSON file if file uploads are supported.
 3. Verify that the JSON is valid and that the data structure is suitable for tabular conversion.
 4. Run the conversion using the available controls.
@@ -581,7 +581,7 @@ Large JSON files may require substantial memory because the complete document is
 
 ## Convert JSON with the IamNoobs Tool
 
-The [IamNoobs JSON to CSV Converter](/json-to-csv-converter) provides a convenient way to transform compatible JSON data into a tabular format without writing a conversion script.
+The [IamNoobs JSON to CSV Converter](https://iamnoobs.com/json-to-csv-converter) provides a convenient way to transform compatible JSON data into a tabular format without writing a conversion script.
 
 It can be useful for API responses, exported records, product catalogs, test data, and everyday development tasks.
 
@@ -614,7 +614,7 @@ id,name,department
 
 ### Steps to use the converter
 
-1. Open the [IamNoobs JSON to CSV Converter](/json-to-csv-converter).
+1. Open the [IamNoobs JSON to CSV Converter](https://iamnoobs.com/json-to-csv-converter).
 2. Paste the JSON data into the input field or upload a file if supported.
 3. Start the conversion using the available controls.
 4. Review the column headers and generated rows.
@@ -634,13 +634,13 @@ The exact options depend on the current implementation of the converter.
 
 If you are converting confidential information, check the tool's privacy and data-handling practices before submitting it. For sensitive data, local conversion may be preferable.
 
-You can also read our related tutorial, [How to Convert CSV to JSON](/articles/how-to-convert-csv-to-json), to learn the reverse conversion process.
+You can also read our related tutorial, [How to Convert CSV to JSON](https://iamnoobs.com/articles/how-to-convert-csv-to-json), to learn the reverse conversion process.
 
 ## Frequently Asked Questions
 
 ### 1. How do I convert JSON to CSV for free?
 
-You can use a free online converter or write a script using Python or JavaScript. The [IamNoobs JSON to CSV Converter](/json-to-csv-converter) is an option for converting compatible JSON data through your browser.
+You can use a free online converter or write a script using Python or JavaScript. The [IamNoobs JSON to CSV Converter](https://iamnoobs.com/json-to-csv-converter) is an option for converting compatible JSON data through your browser.
 
 ### 2. What JSON format is best for CSV conversion?
 
@@ -684,4 +684,4 @@ Converting JSON to CSV makes structured data easier to analyze, share, and impor
 
 For reliable results, pay attention to nested structures, missing fields, special characters, and the difference between JSON data types and CSV text values. Validate the output before using it in a report, database import, or application.
 
-For a quick conversion, try the [IamNoobs JSON to CSV Converter](/json-to-csv-converter). If you need to automate the process or handle large datasets, Python and JavaScript offer flexible options for building a repeatable workflow.
+For a quick conversion, try the [IamNoobs JSON to CSV Converter](https://iamnoobs.com/json-to-csv-converter). If you need to automate the process or handle large datasets, Python and JavaScript offer flexible options for building a repeatable workflow.
