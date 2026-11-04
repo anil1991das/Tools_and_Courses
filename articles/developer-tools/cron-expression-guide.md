@@ -69,14 +69,14 @@ These operators are widely supported in standard cron syntax, but extensions var
 
 | Expression | Intended schedule |
 |---|---|
-| * * * * * | Every minute |
-| */5 asterisk asterisk asterisk asterisk | Every five minutes |
-| */15 asterisk asterisk asterisk asterisk | Every fifteen minutes |
-| 0 * * * * | At the start of every hour |
-| 0 0 * * * | Every day at midnight |
-| 0 9 * * 1 | Monday at 09:00 |
-| 0 9 * * 1-5 | Weekdays at 09:00 |
-| 0 0 1 * * | At midnight on the first day of each month |
+| `* * * * *` | Every minute |
+| `*/5 * * * *` | Every five minutes |
+| `*/15 * * * *` | Every fifteen minutes |
+| `0 * * * *` | At the start of every hour |
+| `0 0 * * *` | Every day at midnight |
+| `0 9 * * 1` | Monday at 09:00 |
+| `0 9 * * 1-5` | Weekdays at 09:00 |
+| `0 0 1 * *` | At midnight on the first day of each month |
 
 The examples use a conventional five-field cron format. The scheduler's timezone determines what local time they represent.
 
@@ -130,7 +130,11 @@ A valid schedule does not guarantee that the command succeeds. The script may ne
 
 ### 1. Confusing hour with minute
 
-The first field is minute and the second is hour. The expression **30 8 * * *** is 08:30, not 30:08.
+The first field is minute and the second is hour. The expression below is 08:30 because the minute field is 30 and the hour field is 8.
+
+~~~text
+30 8 * * *
+~~~
 
 ### 2. Forgetting the scheduler timezone
 
@@ -152,7 +156,11 @@ In a cron field, an asterisk generally means every allowed value for that field.
 
 ### What does a step value of */10 mean?
 
-In a field that supports step values, */10 means every ten values within that field's range. In the minute field, it commonly means minutes 0, 10, 20, 30, 40, and 50.
+In a field that supports step values, a slash followed by 10 means every ten values within that field's range. In the minute field, the expression below commonly means minutes 0, 10, 20, 30, 40, and 50.
+
+~~~text
+*/10 * * * *
+~~~
 
 ### Does cron run a job immediately when I save the expression?
 
