@@ -24,14 +24,21 @@ Tools_and_Courses/
 ├── CONTRIBUTING.md
 ├── articles/
 │   ├── README.md
-│   ├── developer-tutorials/
-│   ├── developer-tools/
-│   ├── security/
-│   ├── image-tools/
-│   ├── document-tools/
 │   ├── calculators/
+│   ├── databases/
+│   ├── developer-tools/
+│   ├── developer-tutorials/
+│   ├── devops/
+│   ├── document-tools/
+│   ├── image-tools/
+│   ├── linux/
+│   ├── networking/
 │   ├── productivity/
-│   └── technology-explained/
+│   ├── programming/
+│   ├── security/
+│   ├── software-engineering/
+│   ├── technology-explained/
+│   └── web-development/
 └── templates/
     └── ARTICLE_TEMPLATE.md
 ```
@@ -40,7 +47,7 @@ Articles are grouped by topic. New categories can be added whenever a subject do
 
 ## Start reading
 
-Browse the [article library](articles/README.md) for the current collection. It includes practical guides to programming, data formats, security basics, image and document utilities, everyday calculations, productivity, web technology, and more.
+Browse the [article library](articles/README.md) for the current collection. It includes practical guides to programming, data formats, web development, networking, DevOps, databases, Linux, security, image and document utilities, everyday calculations, productivity, and more.
 
 ## Our approach
 
