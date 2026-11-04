@@ -27,6 +27,36 @@ Articles are grouped by topic. The collection can grow beyond any single website
 | [How QR Codes Work](developer-tools/qr-code-generator-guide.md) | QR codes, digital tools, safety |
 | [Cron Expressions Explained](developer-tools/cron-expression-guide.md) | Cron, scheduling, automation |
 | [Useful Git Commands](developer-tools/git-command-generator-guide.md) | Git, version control, command line |
+| [Text Case Conversion](developer-tools/text-case-converter-guide.md) | Text processing, naming conventions |
+| [How to Compare Two Texts](developer-tools/text-diff-checker-guide.md) | Text comparison, diffs, code review |
+| [HTML Minification Explained](developer-tools/html-minification-guide.md) | HTML, minification, web performance |
+| [JWT Explained: How to Decode a Token](developer-tools/jwt-decoder-guide.md) | JWT, authentication, web security |
+
+## Security basics
+
+| Article | Topics |
+|---|---|
+| [How to Create Strong Passwords](security/password-generator-guide.md) | Passwords, authentication, online safety |
+| [Hashing Explained: MD5, SHA-1, and SHA-256](security/hash-generator-guide.md) | Cryptographic hashes, integrity, security |
+
+## Image tools
+
+| Article | Topics |
+|---|---|
+| [How to Resize Images Without Distorting Them](image-tools/image-resizer-guide.md) | Image dimensions, aspect ratio, web graphics |
+
+## Document tools
+
+| Article | Topics |
+|---|---|
+| [How to Merge PDF Files](document-tools/pdf-merger-guide.md) | PDF, document management, file tools |
+
+## Calculators
+
+| Article | Topics |
+|---|---|
+| [How to Convert Units](calculators/unit-converter-guide.md) | Measurement, metric system, mathematics |
+| [Percentage Calculations Explained](calculators/percentage-calculator-guide.md) | Percentages, discounts, everyday maths |
 
 ## Productivity and writing
 
@@ -46,6 +76,6 @@ Articles are grouped by topic. The collection can grow beyond any single website
 2. Create a Markdown file inside the most relevant topic folder.
 3. Give the file a descriptive kebab-case name and use the same value for the `slug` field.
 4. Add examples, explain limitations, and link to authoritative references.
-5. Check every internal tool and article link before marking a site-bound article as ready.
+5. Check external tool and reference links before committing the article.
 
 The repository is intended to grow across programming, technology, productivity, education, practical guides, and other useful subjects.
