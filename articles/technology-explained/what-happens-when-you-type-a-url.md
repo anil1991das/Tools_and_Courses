@@ -4,7 +4,7 @@ description: "Follow a web request from the address bar through DNS, a secure co
 slug: "what-happens-when-you-type-a-url"
 publishedAt: "2026-11-04"
 updatedAt: "2026-11-04"
-author: "Anil Das"
+author: "Editorial Team"
 category: "Technology Explained"
 tags:
   - "Web Development"
