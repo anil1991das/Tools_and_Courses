@@ -40,7 +40,7 @@ Articles are grouped by topic. New categories can be added whenever a subject do
 
 ## Start reading
 
-Browse the [article library](articles/README.md) for the current collection. It includes practical guides to data formats, programming utilities, developer workflows, security basics, image and document tools, everyday calculations, productivity, web technology, and more.
+Browse the [article library](articles/README.md) for the current collection. It includes practical guides to programming, data formats, security basics, image and document utilities, everyday calculations, productivity, web technology, and more.
 
 ## Our approach
 
