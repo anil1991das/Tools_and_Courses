@@ -23,7 +23,7 @@ JSON is widely used for API responses, configuration files, application data, an
 
 **JSON validation checks whether a document follows the JSON syntax rules.** A validator helps identify problems such as missing commas, incorrect quotation marks, trailing commas, and mismatched brackets.
 
-In this guide, you'll learn what JSON validation checks, how to validate JSON step by step, and how to fix common syntax errors. You can also use the [IamNoobs JSON Validator](/json-validator) to check your JSON data.
+In this guide, you'll learn what JSON validation checks, how to validate JSON step by step, and how to fix common syntax errors. You can also use the [IamNoobs JSON Validator](https://iamnoobs.com/json-validator) to check your JSON data.
 
 ## What Does JSON Validation Check?
 
@@ -110,7 +110,7 @@ An online validator is useful when you need to check JSON quickly without instal
 
 Follow these steps:
 
-1. Open the [IamNoobs JSON Validator](/json-validator).
+1. Open the [IamNoobs JSON Validator](https://iamnoobs.com/json-validator).
 2. Copy your JSON from an API response, configuration file, or application log.
 3. Paste the JSON into the input field.
 4. Start validation using the available controls.
@@ -206,7 +206,7 @@ Editor diagnostics depend on the file's language mode, configuration, and instal
 
 For a quick manual check, you can also use the Command Palette to format the document. Formatting usually requires valid JSON, so parsing errors may prevent the operation from completing.
 
-See the [How to Format JSON guide](/articles/how-to-format-json) for more formatting techniques.
+See the [How to Format JSON guide](https://iamnoobs.com/articles/how-to-format-json) for more formatting techniques.
 
 ## Common JSON Errors and How to Fix Them
 
@@ -528,7 +528,7 @@ A single syntax mistake can cause additional error messages because the parser m
 
 Once the document parses successfully, use a formatter to make the structure easier to inspect.
 
-You can use the [IamNoobs JSON Formatter](/json-formatter) for this step.
+You can use the [IamNoobs JSON Formatter](https://iamnoobs.com/json-formatter) for this step.
 
 ### Step 6: Check the data requirements
 
@@ -544,7 +544,7 @@ Test the corrected data in the application or workflow that consumes it.
 
 ## Validate JSON with the IamNoobs Tool
 
-The [IamNoobs JSON Validator](/json-validator) provides a convenient way to check JSON syntax without writing a script.
+The [IamNoobs JSON Validator](https://iamnoobs.com/json-validator) provides a convenient way to check JSON syntax without writing a script.
 
 It can be useful when debugging API responses, checking configuration files, preparing test data, or verifying JSON copied from documentation.
 
@@ -578,7 +578,7 @@ Correct version:
 
 ### Steps to use the validator
 
-1. Open the [IamNoobs JSON Validator](/json-validator).
+1. Open the [IamNoobs JSON Validator](https://iamnoobs.com/json-validator).
 2. Paste the JSON you want to check.
 3. Run validation using the available controls.
 4. Review the validation result or error message.
@@ -606,7 +606,7 @@ JSON validation checks whether a document follows JSON syntax rules. It identifi
 
 ### 2. How do I validate JSON online for free?
 
-Open an online JSON validator, paste your JSON, and run the validation operation. You can use the [IamNoobs JSON Validator](/json-validator) to check compatible JSON input in your browser.
+Open an online JSON validator, paste your JSON, and run the validation operation. You can use the [IamNoobs JSON Validator](https://iamnoobs.com/json-validator) to check compatible JSON input in your browser.
 
 ### 3. Why is my JSON invalid even though it looks correct?
 
@@ -624,7 +624,7 @@ Yes. JSON can be syntactically valid but contain incorrect values, missing requi
 
 A validator checks whether JSON syntax is valid. A formatter rearranges valid JSON with consistent indentation and spacing. Some tools combine both functions.
 
-See the [How to Format JSON guide](/articles/how-to-format-json) for more information.
+See the [How to Format JSON guide](https://iamnoobs.com/articles/how-to-format-json) for more information.
 
 ### 7. How do I validate JSON in Python?
 
@@ -648,4 +648,4 @@ JSON validation helps ensure that your data follows the syntax required by JSON 
 
 For a reliable workflow, validate the input, fix syntax errors one at a time, format the corrected document, and check the data against your application's requirements.
 
-Use the [IamNoobs JSON Validator](/json-validator) to check your JSON, and the [JSON Formatter](/json-formatter) to make valid JSON easier to read and maintain.
+Use the [IamNoobs JSON Validator](https://iamnoobs.com/json-validator) to check your JSON, and the [JSON Formatter](https://iamnoobs.com/json-formatter) to make valid JSON easier to read and maintain.
