@@ -23,7 +23,7 @@ CSV and JSON are two popular formats for storing and exchanging data. CSV is com
 
 If you have data in a CSV file and need to use it in a web application, JavaScript program, or API request, converting it to JSON can make the data easier to work with.
 
-In this guide, you'll learn how CSV data maps to JSON objects, how to convert a CSV file step by step, and how to troubleshoot common conversion issues. You can also use the [IamNoobs CSV to JSON Converter](/csv-to-json-converter) to convert your data directly in your browser.
+In this guide, you'll learn how CSV data maps to JSON objects, how to convert a CSV file step by step, and how to troubleshoot common conversion issues. You can also use the [IamNoobs CSV to JSON Converter](https://iamnoobs.com/csv-to-json-converter) to convert your data directly in your browser.
 
 ## What Is the Difference Between CSV and JSON?
 
@@ -186,7 +186,7 @@ An online converter is convenient when you need to transform a file quickly with
 
 Follow these steps:
 
-1. Open the [IamNoobs CSV to JSON Converter](/csv-to-json-converter).
+1. Open the [IamNoobs CSV to JSON Converter](https://iamnoobs.com/csv-to-json-converter).
 2. Paste your CSV content into the input field or upload a CSV file if the tool supports file uploads.
 3. Check that the first row contains the correct column headers.
 4. Select any available conversion options, such as type inference or handling of empty values.
@@ -453,7 +453,7 @@ Correct JSON:
 
 ## Convert CSV with the IamNoobs Tool
 
-The [IamNoobs CSV to JSON Converter](/csv-to-json-converter) provides a convenient way to transform tabular CSV data into JSON without writing a conversion script.
+The [IamNoobs CSV to JSON Converter](https://iamnoobs.com/csv-to-json-converter) provides a convenient way to transform tabular CSV data into JSON without writing a conversion script.
 
 You can use the converter for sample datasets, exported reports, small data-processing tasks, and development workflows.
 
@@ -495,7 +495,7 @@ The corresponding JSON structure is:
 
 ### Steps to use the converter
 
-1. Open the [CSV to JSON Converter](/csv-to-json-converter).
+1. Open the [CSV to JSON Converter](https://iamnoobs.com/csv-to-json-converter).
 2. Enter the sample CSV data or provide your own dataset.
 3. Start the conversion using the available controls.
 4. Examine the JSON output for missing columns, unexpected values, or formatting problems.
@@ -522,7 +522,7 @@ If you frequently work with different data formats, you can also explore other t
 
 ### 1. How do I convert CSV to JSON for free?
 
-You can use a free online CSV-to-JSON converter or write a short script in Python or JavaScript. The [IamNoobs CSV to JSON Converter](/csv-to-json-converter) is one option for converting CSV data directly through your browser.
+You can use a free online CSV-to-JSON converter or write a short script in Python or JavaScript. The [IamNoobs CSV to JSON Converter](https://iamnoobs.com/csv-to-json-converter) is one option for converting CSV data directly through your browser.
 
 ### 2. Does each CSV row become a JSON object?
 
@@ -566,4 +566,4 @@ Converting CSV to JSON makes tabular data easier to integrate into web applicati
 
 The most important part is preserving the meaning of the original data. Pay attention to quoted fields, empty cells, duplicate headers, data types, and character encoding.
 
-For a quick conversion, try the [IamNoobs CSV to JSON Converter](/csv-to-json-converter). For automated workflows or large datasets, use a CSV-aware parser in Python or JavaScript and validate the resulting JSON before using it in your application.
+For a quick conversion, try the [IamNoobs CSV to JSON Converter](https://iamnoobs.com/csv-to-json-converter). For automated workflows or large datasets, use a CSV-aware parser in Python or JavaScript and validate the resulting JSON before using it in your application.
