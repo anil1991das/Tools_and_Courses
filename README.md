@@ -51,7 +51,7 @@ Articles are grouped by topic. New categories can be added whenever a subject do
 
 ## Start reading
 
-Browse the [article library](articles/README.md) for the current collection. It includes practical guides to frontend and backend development, APIs, infrastructure, containers, software testing, application security, cloud computing, C programming, algorithms, databases, Linux administration, embedded systems, image and document utilities, everyday calculations, productivity, and more.
+Browse the [article library](articles/README.md) for the current collection. It includes practical guides to frontend and backend development, APIs, infrastructure, containers, software testing, application security, cloud computing, C programming, algorithms, databases, Linux administration, embedded systems, AUTOSAR communication, vehicle diagnostics, MCU startup, image and document utilities, everyday calculations, productivity, and more.
 
 ## Our approach
 
