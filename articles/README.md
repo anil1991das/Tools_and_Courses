@@ -14,7 +14,7 @@ Articles are grouped by topic. The collection can grow beyond any single website
 | [How to Convert JSON to XML](developer-tutorials/json-to-xml-converter.md) | JSON, XML, data conversion |
 | [What Is Base64 Encoding?](developer-tutorials/what-is-base64.md) | Base64, encoding |
 
-## Developer tools
+## Developer tools and text processing
 
 | Article | Topics |
 |---|---|
@@ -31,6 +31,13 @@ Articles are grouped by topic. The collection can grow beyond any single website
 | [How to Compare Two Texts](developer-tools/text-diff-checker-guide.md) | Text comparison, diffs, code review |
 | [HTML Minification Explained](developer-tools/html-minification-guide.md) | HTML, minification, web performance |
 | [JWT Explained: How to Decode a Token](developer-tools/jwt-decoder-guide.md) | JWT, authentication, web security |
+| [Generate Random Strings](developer-tools/random-string-generator-guide.md) | Random strings, test data, identifiers |
+| [How to Read and Parse a URL](developer-tools/url-parser-guide.md) | URLs, JavaScript, web development |
+| [Unix Timestamps Explained](developer-tools/timestamp-converter-guide.md) | Unix time, UTC, JavaScript |
+| [Morse Code Explained](developer-tools/morse-code-translator-guide.md) | Morse code, encoding, communication |
+| [Remove Duplicate Lines](developer-tools/remove-duplicate-lines-guide.md) | Text cleanup, deduplication |
+| [Sort Text Lines](developer-tools/sort-text-lines-guide.md) | Text sorting, data cleanup |
+| [How to Reverse Text](developer-tools/reverse-text-guide.md) | Strings, text processing |
 
 ## Security basics
 
@@ -38,31 +45,44 @@ Articles are grouped by topic. The collection can grow beyond any single website
 |---|---|
 | [How to Create Strong Passwords](security/password-generator-guide.md) | Passwords, authentication, online safety |
 | [Hashing Explained: MD5, SHA-1, and SHA-256](security/hash-generator-guide.md) | Cryptographic hashes, integrity, security |
+| [Secure Random Tokens](security/secure-token-generator-guide.md) | Tokens, randomness, security |
+| [Checksums Explained](security/checksum-generator-guide.md) | Checksums, integrity, file verification |
 
 ## Image tools
 
 | Article | Topics |
 |---|---|
 | [How to Resize Images Without Distorting Them](image-tools/image-resizer-guide.md) | Image dimensions, aspect ratio, web graphics |
+| [Image Compression Explained](image-tools/image-compression-guide.md) | Compression, image quality, performance |
+| [WebP Images Explained](image-tools/webp-converter-guide.md) | WebP, image conversion, web performance |
+| [Convert an Image to Base64](image-tools/image-to-base64-guide.md) | Base64, images, data URLs |
+| [Convert Base64 Back into an Image](image-tools/base64-to-image-guide.md) | Base64, image decoding, data URLs |
 
 ## Document tools
 
 | Article | Topics |
 |---|---|
 | [How to Merge PDF Files](document-tools/pdf-merger-guide.md) | PDF, document management, file tools |
+| [How to Split a PDF](document-tools/pdf-splitter-guide.md) | PDF, page extraction, document management |
+| [How to Compress a PDF](document-tools/pdf-compressor-guide.md) | PDF, compression, file management |
 
 ## Calculators
 
 | Article | Topics |
 |---|---|
 | [How to Convert Units](calculators/unit-converter-guide.md) | Measurement, metric system, mathematics |
-| [Percentage Calculations Explained](calculators/percentage-calculator-guide.md) | Percentages, discounts, everyday maths |
+| [Percentage Calculations Explained](calculators/percentage-calculator-guide.md) | Percentages, discounts, everyday mathematics |
+| [How to Calculate GST](calculators/gst-calculator-guide.md) | GST, tax calculations, India |
+| [How to Calculate Loan EMI](calculators/emi-calculator-guide.md) | EMI, loans, interest |
+| [How to Calculate Discounts](calculators/discount-calculator-guide.md) | Shopping, percentages, savings |
 
 ## Productivity and writing
 
 | Article | Topics |
 |---|---|
 | [Count Words, Characters, Sentences, and Reading Time](productivity/word-counter-guide.md) | Writing, word count, productivity |
+| [The Pomodoro Technique](productivity/pomodoro-timer-guide.md) | Focus, time management, productivity |
+| [How to Build a Useful To-Do List](productivity/todo-list-guide.md) | Task management, planning, productivity |
 
 ## Technology explained
 
