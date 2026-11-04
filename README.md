@@ -25,6 +25,8 @@ Tools_and_Courses/
 ├── articles/
 │   ├── README.md
 │   ├── developer-tutorials/
+│   ├── developer-tools/
+│   ├── productivity/
 │   └── technology-explained/
 └── templates/
     └── ARTICLE_TEMPLATE.md
@@ -34,7 +36,7 @@ Articles are grouped by topic. New categories can be added whenever a subject do
 
 ## Start reading
 
-Browse the [article library](articles/README.md) for the current collection. The first set includes practical guides to JSON formatting and validation, CSV/JSON conversion, JSON Schema, XML conversion, Base64 encoding, and how browsers load websites.
+Browse the [article library](articles/README.md) for the current collection. It includes practical guides to data formats, programming utilities, developer workflows, productivity, web technology, and more.
 
 ## Our approach
 
