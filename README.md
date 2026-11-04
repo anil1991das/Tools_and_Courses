@@ -26,6 +26,10 @@ Tools_and_Courses/
 │   ├── README.md
 │   ├── developer-tutorials/
 │   ├── developer-tools/
+│   ├── security/
+│   ├── image-tools/
+│   ├── document-tools/
+│   ├── calculators/
 │   ├── productivity/
 │   └── technology-explained/
 └── templates/
@@ -36,7 +40,7 @@ Articles are grouped by topic. New categories can be added whenever a subject do
 
 ## Start reading
 
-Browse the [article library](articles/README.md) for the current collection. It includes practical guides to data formats, programming utilities, developer workflows, productivity, web technology, and more.
+Browse the [article library](articles/README.md) for the current collection. It includes practical guides to data formats, programming utilities, developer workflows, security basics, image and document tools, everyday calculations, productivity, web technology, and more.
 
 ## Our approach
 
@@ -50,7 +54,7 @@ We aim to make information:
 
 ## Add or improve content
 
-Use the [article template](templates/ARTICLE_TEMPLATE.md) when creating a new article. Read the [contribution guide](CONTRIBUTING.md) for folder conventions, metadata, references, and the website publishing workflow.
+Use the [article template](templates/ARTICLE_TEMPLATE.md) when creating a new article. Read the [contribution guide](CONTRIBUTING.md) for folder conventions, metadata, references, and review expectations.
 
 Suggestions, corrections, and topic ideas are welcome through [GitHub Issues](https://github.com/anil1991das/Tools_and_Courses/issues). Contributions should be original, respectful, relevant, and helpful to readers.
 
