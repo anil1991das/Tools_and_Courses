@@ -1,6 +1,6 @@
 # Tools, Tutorials & Learning Resources
 
-A growing collection of useful articles, tutorials, guides, tools, and learning resources for curious minds, students, developers, and technology enthusiasts.
+A growing collection of useful articles, tutorials, guides, and learning resources for curious minds, students, developers, and technology enthusiasts.
 
 The goal of this repository is simple: **share practical knowledge and resources that help people learn, solve problems, explore ideas, and build useful skills.**
 
@@ -8,17 +8,33 @@ The content is not limited to one subject, platform, or website. It can cover a 
 
 ## What you'll find here
 
-This repository may include:
-
 - **Technology and software** — explanations, guides, tips, and useful resources.
 - **Programming and development** — tutorials, code examples, concepts, and best practices.
-- **Tools and utilities** — introductions to helpful online tools, applications, and workflows.
+- **Tools and utilities** — introductions to helpful tools, applications, and workflows.
 - **Courses and learning resources** — study material, learning paths, and curated references.
 - **How-to guides** — practical, step-by-step solutions to common questions and problems.
 - **Productivity and digital skills** — ideas and resources that make everyday tasks easier.
 - **General knowledge** — informative content across other useful subjects.
 
-Topics may expand over time as new ideas and reader needs emerge.
+## Repository structure
+
+```text
+Tools_and_Courses/
+├── README.md
+├── CONTRIBUTING.md
+├── articles/
+│   ├── README.md
+│   ├── developer-tutorials/
+│   └── technology-explained/
+└── templates/
+    └── ARTICLE_TEMPLATE.md
+```
+
+Articles are grouped by topic. New categories can be added whenever a subject does not fit an existing folder.
+
+## Start reading
+
+Browse the [article library](articles/README.md) for the current collection. The first set includes practical guides to JSON formatting and validation, CSV/JSON conversion, JSON Schema, XML conversion, Base64 encoding, and how browsers load websites.
 
 ## Our approach
 
@@ -30,29 +46,15 @@ We aim to make information:
 - **Accessible:** welcoming to beginners while still offering value to experienced readers.
 - **Responsible:** accurate to the best of our knowledge, with sources and references where relevant.
 
-## Repository organization
+## Add or improve content
 
-Content will be organized by topic as the collection grows. Articles and resources may be added in dedicated folders to make them easier to discover and maintain.
+Use the [article template](templates/ARTICLE_TEMPLATE.md) when creating a new article. Read the [contribution guide](CONTRIBUTING.md) for folder conventions, metadata, references, and the website publishing workflow.
 
-A typical article should include:
-
-- A clear and descriptive title.
-- A brief introduction explaining what the reader will learn.
-- Well-organized sections and practical examples where relevant.
-- References or useful links when appropriate.
-
-## Feedback and contributions
-
-Suggestions, corrections, and ideas for future topics are welcome.
-
-- Open an [issue](https://github.com/anil1991das/Tools_and_Courses/issues) to report an error or suggest a topic.
-- Submit a pull request to improve existing content or contribute something useful.
-
-Please keep contributions relevant, respectful, and helpful to readers.
+Suggestions, corrections, and topic ideas are welcome through [GitHub Issues](https://github.com/anil1991das/Tools_and_Courses/issues). Contributions should be original, respectful, relevant, and helpful to readers.
 
 ## Disclaimer
 
-Content in this repository is provided for informational and educational purposes. While care is taken to keep information useful and accurate, readers should independently verify technical instructions, recommendations, and external resources before relying on them.
+Content in this repository is provided for informational and educational purposes. Readers should independently verify technical instructions, recommendations, and external resources before relying on them.
 
 ---
 
