@@ -27,7 +27,7 @@ JSON Schema validation checks whether JSON data follows a predefined structure a
 
 For example, an API may require every user record to contain a name and an integer age greater than or equal to zero. JSON Schema lets you define these requirements and check whether a JSON object satisfies them.
 
-In this guide, you'll learn how JSON Schema works, how to create a schema, and how to identify common validation errors. You can also try the [IamNoobs JSON Schema Validator](/json-schema-validator) with the examples below.
+In this guide, you'll learn how JSON Schema works, how to create a schema, and how to identify common validation errors. You can also try the [IamNoobs JSON Schema Validator](https://iamnoobs.com/json-schema-validator) with the examples below.
 
 ## What Is JSON Schema Validation?
 
@@ -150,7 +150,7 @@ The `required` keyword checks whether the properties exist. The constraints unde
 
 ### Step 3: Validate the data
 
-Open the [IamNoobs JSON Schema Validator](/json-schema-validator).
+Open the [IamNoobs JSON Schema Validator](https://iamnoobs.com/json-schema-validator).
 
 The tool provides separate fields for JSON data and JSON Schema. Enter the user object in the JSON Data field and the schema in the JSON Schema field, then select **Validate**.
 
@@ -437,7 +437,7 @@ JSON Schema has multiple versions and many keywords. A lightweight validator may
 
 ## Try the IamNoobs JSON Schema Validator
 
-The [IamNoobs JSON Schema Validator](/json-schema-validator) lets you validate JSON data against a schema using separate input fields for the data and its rules.
+The [IamNoobs JSON Schema Validator](https://iamnoobs.com/json-schema-validator) lets you validate JSON data against a schema using separate input fields for the data and its rules.
 
 The tool supports common validation features, including:
 
@@ -485,15 +485,15 @@ Next, change `"age": 30` to `"age": "thirty"` and validate again. The data remai
 
 This simple test demonstrates the difference between parsing JSON and checking it against application-specific rules.
 
-For a broader check of JSON syntax before schema validation, see the [IamNoobs JSON Validator](/json-validator). To make valid JSON easier to read, use the [JSON Formatter](/json-formatter).
+For a broader check of JSON syntax before schema validation, see the [IamNoobs JSON Validator](https://iamnoobs.com/json-validator). To make valid JSON easier to read, use the [JSON Formatter](https://iamnoobs.com/json-formatter).
 
 ## Related Guides
 
 Continue learning about JSON with these guides:
 
-- [How to Validate JSON and Fix Common Errors](/articles/how-to-validate-json) — understand syntax errors such as trailing commas, missing quotes, and mismatched braces.
-- [How to Format JSON: A Practical Guide](/articles/how-to-format-json) — make JSON easier to read with indentation and consistent spacing.
-- [How to Convert JSON to CSV](/articles/how-to-convert-json-to-csv) — transform JSON records into rows and columns for spreadsheets.
+- [How to Validate JSON and Fix Common Errors](https://iamnoobs.com/articles/how-to-validate-json) — understand syntax errors such as trailing commas, missing quotes, and mismatched braces.
+- [How to Format JSON: A Practical Guide](https://iamnoobs.com/articles/how-to-format-json) — make JSON easier to read with indentation and consistent spacing.
+- [How to Convert JSON to CSV](https://iamnoobs.com/articles/how-to-convert-json-to-csv) — transform JSON records into rows and columns for spreadsheets.
 
 ## Frequently Asked Questions
 
@@ -535,4 +535,4 @@ JSON Schema validation helps ensure that JSON data follows the structure and rul
 
 Start with a small schema, test both valid and invalid examples, and confirm that your validator supports the keywords your application needs.
 
-Try the [IamNoobs JSON Schema Validator](/json-schema-validator) to validate a JSON object against a schema and understand how structural validation works.
+Try the [IamNoobs JSON Schema Validator](https://iamnoobs.com/json-schema-validator) to validate a JSON object against a schema and understand how structural validation works.
