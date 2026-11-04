@@ -26,7 +26,7 @@ For example, the word `Hello` can be encoded as `SGVsbG8=` using Base64. The enc
 
 **Base64 is an encoding method, not encryption.** It helps represent data in a compatible format, but it does not protect confidential information.
 
-In this guide, you'll learn what Base64 is, how encoding and decoding work, where Base64 is used, and how to use the [IamNoobs Base64 Encoder](/base64-encoder) and [Base64 Decoder](/base64-decoder).
+In this guide, you'll learn what Base64 is, how encoding and decoding work, where Base64 is used, and how to use the [IamNoobs Base64 Encoder](https://iamnoobs.com/base64-encoder) and [Base64 Decoder](https://iamnoobs.com/base64-decoder).
 
 ## What Is Base64?
 
@@ -305,7 +305,7 @@ Also, decoding unknown input does not make it safe to execute or open. Treat dec
 
 ## Encode or Decode Base64 with IamNoobs
 
-The [IamNoobs Base64 Encoder](/base64-encoder) and [Base64 Decoder](/base64-decoder) help you convert between text and Base64 representations.
+The [IamNoobs Base64 Encoder](https://iamnoobs.com/base64-encoder) and [Base64 Decoder](https://iamnoobs.com/base64-decoder) help you convert between text and Base64 representations.
 
 These tools can be useful for API testing, debugging encoded values, working with sample payloads, and learning how Base64 works.
 
@@ -319,7 +319,7 @@ Hello
 
 Follow these steps:
 
-1. Open the [IamNoobs Base64 Encoder](/base64-encoder).
+1. Open the [IamNoobs Base64 Encoder](https://iamnoobs.com/base64-encoder).
 2. Enter `Hello` into the input field.
 3. Run the encoding operation using the available controls.
 4. Review the resulting Base64 string.
@@ -336,7 +336,7 @@ The result represents the UTF-8 bytes of the original text.
 
 To reverse the conversion:
 
-1. Open the [IamNoobs Base64 Decoder](/base64-decoder).
+1. Open the [IamNoobs Base64 Decoder](https://iamnoobs.com/base64-decoder).
 2. Enter the encoded value `SGVsbG8=`.
 3. Run the decoding operation.
 4. Review the decoded output.
@@ -382,11 +382,11 @@ Base64 refers to an encoding scheme that represents bytes using a set of 64 prim
 
 ### 2. How do I encode text to Base64?
 
-Convert the text to bytes using a defined character encoding, typically UTF-8, and then encode those bytes using Base64. You can use the [IamNoobs Base64 Encoder](/base64-encoder) to perform this conversion.
+Convert the text to bytes using a defined character encoding, typically UTF-8, and then encode those bytes using Base64. You can use the [IamNoobs Base64 Encoder](https://iamnoobs.com/base64-encoder) to perform this conversion.
 
 ### 3. How do I decode Base64 to text?
 
-Decode the Base64 string into bytes, then interpret those bytes using the appropriate text encoding if the original data represents text. You can use the [IamNoobs Base64 Decoder](/base64-decoder) for this process.
+Decode the Base64 string into bytes, then interpret those bytes using the appropriate text encoding if the original data represents text. You can use the [IamNoobs Base64 Decoder](https://iamnoobs.com/base64-decoder) for this process.
 
 ### 4. Is Base64 encryption?
 
@@ -430,4 +430,4 @@ Base64 is a widely used method for representing binary data as text. It is usefu
 
 The key is understanding what Base64 does and what it does not do. It makes bytes easier to represent in text-oriented systems, but it does not encrypt data or protect secrets.
 
-Use the [IamNoobs Base64 Encoder](/base64-encoder) to encode text and the [Base64 Decoder](/base64-decoder) to recover the original bytes. Always choose the correct text encoding and Base64 variant, and use proper security mechanisms whenever confidentiality is required.
+Use the [IamNoobs Base64 Encoder](https://iamnoobs.com/base64-encoder) to encode text and the [Base64 Decoder](https://iamnoobs.com/base64-decoder) to recover the original bytes. Always choose the correct text encoding and Base64 variant, and use proper security mechanisms whenever confidentiality is required.
