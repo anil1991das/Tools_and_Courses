@@ -14,6 +14,61 @@ Articles are grouped by topic. The collection can grow beyond any single website
 | [How to Convert JSON to XML](developer-tutorials/json-to-xml-converter.md) | JSON, XML, data conversion |
 | [What Is Base64 Encoding?](developer-tutorials/what-is-base64.md) | Base64, encoding |
 
+## Web development
+
+| Article | Topics |
+|---|---|
+| [HTTP Request Methods Explained](web-development/http-request-methods-guide.md) | HTTP, GET, POST, PUT, PATCH, DELETE |
+| [HTTP Status Codes Explained](web-development/http-status-codes-guide.md) | HTTP, APIs, troubleshooting |
+| [HTTPS and TLS Explained](web-development/https-tls-explained.md) | HTTPS, TLS, certificates, security |
+| [CORS Explained](web-development/cors-explained.md) | CORS, browser security, APIs |
+| [Cookies vs Local Storage vs Session Storage](web-development/browser-cookies-local-storage-session-storage.md) | Browser storage, JavaScript, security |
+| [REST API Design Basics](web-development/rest-api-design-basics.md) | REST, API design, HTTP |
+
+## Networking
+
+| Article | Topics |
+|---|---|
+| [DNS Records Explained](networking/dns-records-explained.md) | DNS, domains, hosting, email |
+| [TCP vs UDP](networking/tcp-vs-udp-explained.md) | Networking, transport protocols, QUIC |
+
+## DevOps
+
+| Article | Topics |
+|---|---|
+| [Docker Containers Explained](devops/docker-containers-explained.md) | Docker, images, containers, volumes |
+| [CI/CD Pipelines Explained](devops/ci-cd-pipeline-explained.md) | CI/CD, automation, software delivery |
+| [Environment Variables and Secrets](devops/environment-variables-and-secrets-guide.md) | Configuration, credentials, secrets management |
+
+## Software engineering
+
+| Article | Topics |
+|---|---|
+| [Semantic Versioning Explained](software-engineering/semantic-versioning-explained.md) | SemVer, releases, compatibility |
+
+## Programming
+
+| Article | Topics |
+|---|---|
+| [Python Virtual Environments](programming/python-virtual-environments-guide.md) | Python, venv, pip, dependencies |
+| [JavaScript Async and Await](programming/javascript-async-await-explained.md) | JavaScript, promises, async programming |
+| [JSON vs YAML](programming/json-vs-yaml-explained.md) | Data formats, configuration, serialization |
+
+## Databases
+
+| Article | Topics |
+|---|---|
+| [SQL Joins Explained](databases/sql-joins-explained.md) | SQL, INNER JOIN, LEFT JOIN, relational data |
+| [Database Indexes Explained](databases/sql-indexes-explained.md) | SQL, query performance, indexes |
+| [ACID Transactions Explained](databases/acid-transactions-explained.md) | Database transactions, consistency, isolation |
+
+## Linux and systems
+
+| Article | Topics |
+|---|---|
+| [Linux File Permissions](linux/linux-file-permissions-guide.md) | Linux, chmod, chown, rwx |
+| [Processes vs Threads](linux/processes-vs-threads-explained.md) | Operating systems, concurrency, scheduling |
+
 ## Developer tools and text processing
 
 | Article | Topics |
