@@ -4,7 +4,7 @@ A growing collection of useful articles, tutorials, guides, and learning resourc
 
 The goal of this repository is simple: **share practical knowledge and resources that help people learn, solve problems, explore ideas, and build useful skills.**
 
-The content is not limited to one subject, platform, or website. It covers a wide range of useful topics, including web development, networking, DevOps, programming languages, databases, Linux, software engineering, and practical technology.
+The content is not limited to one subject, platform, or website. It covers a wide range of useful topics, including web development, networking, DevOps, programming languages, databases, Linux, software engineering, software testing, cloud computing, computer science, and embedded systems.
 
 ## What you'll find here
 
@@ -25,11 +25,14 @@ Tools_and_Courses/
 ├── articles/
 │   ├── README.md
 │   ├── calculators/
+│   ├── cloud/
+│   ├── computer-science/
 │   ├── databases/
 │   ├── developer-tools/
 │   ├── developer-tutorials/
 │   ├── devops/
 │   ├── document-tools/
+│   ├── embedded-systems/
 │   ├── image-tools/
 │   ├── linux/
 │   ├── networking/
@@ -37,6 +40,7 @@ Tools_and_Courses/
 │   ├── programming/
 │   ├── security/
 │   ├── software-engineering/
+│   ├── software-testing/
 │   ├── technology-explained/
 │   └── web-development/
 └── templates/
@@ -47,7 +51,7 @@ Articles are grouped by topic. New categories can be added whenever a subject do
 
 ## Start reading
 
-Browse the [article library](articles/README.md) for the current collection. It includes practical guides to frontend and backend development, APIs, infrastructure, containers, programming languages, databases, Linux administration, security, image and document utilities, everyday calculations, productivity, and more.
+Browse the [article library](articles/README.md) for the current collection. It includes practical guides to frontend and backend development, APIs, infrastructure, containers, software testing, application security, cloud computing, C programming, algorithms, databases, Linux administration, embedded systems, image and document utilities, everyday calculations, productivity, and more.
 
 ## Our approach
 
