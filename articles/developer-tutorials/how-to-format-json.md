@@ -22,7 +22,7 @@ JSON is a popular format for exchanging data between applications, APIs, and bac
 
 **Formatting JSON makes the data easier to read by adding indentation, line breaks, and consistent spacing without changing its underlying structure or values.**
 
-In this guide, you'll learn what JSON formatting does, how to format JSON using an editor or an online tool, and how to identify common syntax errors. You can also use the [IamNoobs JSON Formatter](/json-formatter) to format and inspect JSON data.
+In this guide, you'll learn what JSON formatting does, how to format JSON using an editor or an online tool, and how to identify common syntax errors. You can also use the [IamNoobs JSON Formatter](https://iamnoobs.com/json-formatter) to format and inspect JSON data.
 
 ## What Is JSON Formatting?
 
@@ -88,7 +88,7 @@ An online formatter is convenient when you need to format JSON quickly without i
 
 Follow these steps:
 
-1. Open the [IamNoobs JSON Formatter](/json-formatter).
+1. Open the [IamNoobs JSON Formatter](https://iamnoobs.com/json-formatter).
 2. Copy your JSON data from an API response, file, or application log.
 3. Paste the JSON into the input field.
 4. Run the formatting operation using the available controls.
@@ -540,7 +540,7 @@ After formatting, validate your data against the application's requirements or a
 
 ## Format JSON with the IamNoobs Tool
 
-The [IamNoobs JSON Formatter](/json-formatter) provides a convenient way to make JSON data easier to read without manually adjusting indentation and line breaks.
+The [IamNoobs JSON Formatter](https://iamnoobs.com/json-formatter) provides a convenient way to make JSON data easier to read without manually adjusting indentation and line breaks.
 
 It can be useful when inspecting API responses, debugging application data, reviewing configuration files, or preparing JSON for documentation.
 
@@ -570,7 +570,7 @@ The expected formatted structure is:
 
 ### Steps to use the formatter
 
-1. Open the [IamNoobs JSON Formatter](/json-formatter).
+1. Open the [IamNoobs JSON Formatter](https://iamnoobs.com/json-formatter).
 2. Paste your JSON into the input area.
 3. Run the formatting operation using the available controls.
 4. Review the formatted output.
@@ -598,7 +598,7 @@ Formatting JSON means arranging its content using indentation, line breaks, and 
 
 ### 2. How do I format JSON online for free?
 
-Open an online JSON formatter, paste your JSON into the input field, and run the formatting operation. You can try the [IamNoobs JSON Formatter](/json-formatter) to format compatible JSON data in your browser.
+Open an online JSON formatter, paste your JSON into the input field, and run the formatting operation. You can try the [IamNoobs JSON Formatter](https://iamnoobs.com/json-formatter) to format compatible JSON data in your browser.
 
 ### 3. Does formatting JSON change its data?
 
@@ -638,4 +638,4 @@ JSON formatting makes structured data easier to read, debug, and maintain. Wheth
 
 Remember that formatting does not replace syntax validation or application-level checks. If your JSON is invalid, correct the syntax first; if it is valid but incorrect, verify the data against your application's requirements.
 
-For a quick and convenient workflow, try the [IamNoobs JSON Formatter](/json-formatter) to make your JSON easier to inspect.
+For a quick and convenient workflow, try the [IamNoobs JSON Formatter](https://iamnoobs.com/json-formatter) to make your JSON easier to inspect.
