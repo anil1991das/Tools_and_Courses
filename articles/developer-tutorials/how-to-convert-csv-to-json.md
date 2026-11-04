@@ -516,7 +516,7 @@ Before using the JSON output, verify the following:
 
 For sensitive datasets, avoid uploading confidential information to an online service unless you have verified its data-handling and privacy practices.
 
-If you frequently work with different data formats, you can also explore other tools available on [IamNoobs](/).
+If you frequently work with different data formats, you can also explore other tools available on [IamNoobs](https://iamnoobs.com/).
 
 ## Frequently Asked Questions
 
