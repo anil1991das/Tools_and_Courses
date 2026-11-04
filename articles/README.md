@@ -123,6 +123,26 @@ Articles are grouped by topic. The collection can grow beyond any single website
 | [Interrupt Handling in Embedded Systems](embedded-systems/interrupt-handling-embedded-systems-guide.md) | ISR, interrupt latency, RTOS |
 | [SPI vs I2C](embedded-systems/spi-vs-i2c-guide.md) | SPI, I2C, MCU peripherals |
 | [UART Communication](embedded-systems/uart-communication-explained.md) | UART, serial communication, baud rate |
+| [AUTOSAR Communication Stack Overview](embedded-systems/autosar-communication-stack-overview.md) | COM, PduR, CanIf, CAN stack |
+| [AUTOSAR COM Module](embedded-systems/autosar-com-module-explained.md) | Signals, I-PDUs, packing, timing |
+| [AUTOSAR PduR](embedded-systems/autosar-pdur-explained.md) | PDU routing, gateway communication |
+| [AUTOSAR CanIf](embedded-systems/autosar-canif-explained.md) | CAN interface, PDU mapping, controller modes |
+| [AUTOSAR CanTp](embedded-systems/autosar-cantp-explained.md) | ISO-TP, segmentation, flow control |
+| [AUTOSAR DCM and DEM](embedded-systems/autosar-dcm-dem-explained.md) | Diagnostics, DTCs, event management |
+| [AUTOSAR E2E Protection](embedded-systems/autosar-e2e-protection-explained.md) | CRC, counters, communication integrity |
+| [AUTOSAR Mode Management](embedded-systems/autosar-mode-management-guide.md) | BswM, EcuM, ComM, ECU states |
+| [XCP Protocol](embedded-systems/xcp-protocol-explained.md) | Measurement, calibration, DAQ |
+| [XCP on CAN vs Ethernet](embedded-systems/xcp-can-vs-ethernet-guide.md) | Transport, bandwidth, DAQ |
+| [DoIP Diagnostics](embedded-systems/doip-diagnostics-explained.md) | Diagnostics over IP, UDS, ISO 13400 |
+| [CAN Bus-Off and Recovery](embedded-systems/can-bus-off-error-handling-guide.md) | Error counters, bus-off, recovery |
+| [Automotive Ethernet Testing](embedded-systems/automotive-ethernet-testing-guide.md) | PHY, throughput, latency, wake-up |
+| [DMA in Embedded Systems](embedded-systems/dma-embedded-systems-explained.md) | Data transfers, buffers, interrupts |
+| [Memory-Mapped I/O](embedded-systems/memory-mapped-io-registers-guide.md) | Peripheral registers, volatile, MMIO |
+| [Embedded Bootloader and Firmware Update](embedded-systems/embedded-bootloader-firmware-update-guide.md) | Bootloader, image validation, recovery |
+| [Embedded Linker Scripts](embedded-systems/embedded-linker-script-guide.md) | Memory layout, sections, symbols |
+| [Microcontroller Startup Code](embedded-systems/microcontroller-startup-code-guide.md) | Reset handler, vector table, runtime init |
+| [Watchdog Timers](embedded-systems/watchdog-timer-embedded-systems-guide.md) | Fault detection, reset, recovery |
+| [DMA Cache Coherency](embedded-systems/dma-cache-coherency-guide.md) | Cache clean, invalidate, buffer ownership |
 | [Automotive Ethernet](embedded-systems/automotive-ethernet-explained.md) | 100BASE-T1, 1000BASE-T1, vehicle networking |
 
 ## Developer tools and text processing
