@@ -4,7 +4,7 @@ A growing collection of useful articles, tutorials, guides, and learning resourc
 
 The goal of this repository is simple: **share practical knowledge and resources that help people learn, solve problems, explore ideas, and build useful skills.**
 
-The content is not limited to one subject, platform, or website. It can cover a wide range of topics based on what may be useful to readers.
+The content is not limited to one subject, platform, or website. It covers a wide range of useful topics, including web development, networking, DevOps, programming languages, databases, Linux, software engineering, and practical technology.
 
 ## What you'll find here
 
@@ -47,7 +47,7 @@ Articles are grouped by topic. New categories can be added whenever a subject do
 
 ## Start reading
 
-Browse the [article library](articles/README.md) for the current collection. It includes practical guides to programming, data formats, web development, networking, DevOps, databases, Linux, security, image and document utilities, everyday calculations, productivity, and more.
+Browse the [article library](articles/README.md) for the current collection. It includes practical guides to frontend and backend development, APIs, infrastructure, containers, programming languages, databases, Linux administration, security, image and document utilities, everyday calculations, productivity, and more.
 
 ## Our approach
 
