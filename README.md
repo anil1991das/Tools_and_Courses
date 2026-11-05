@@ -4,7 +4,7 @@ A growing collection of useful articles, tutorials, guides, and learning resourc
 
 The goal of this repository is simple: **share practical knowledge and resources that help people learn, solve problems, explore ideas, and build useful skills.**
 
-The content is not limited to one subject, platform, or website. It covers a wide range of useful topics, including web development, networking, DevOps, programming languages, databases, Linux, software engineering, software testing, cloud computing, computer science, and embedded systems.
+The content is not limited to one subject, platform, or website. It covers a wide range of useful topics, including web development, networking, DevOps, Python, JavaScript, TypeScript, C and C++ programming guides, databases, Linux, software engineering, software testing, cloud computing, computer science, and embedded systems.
 
 ## What you'll find here
 
