@@ -90,6 +90,26 @@ Articles are grouped by topic. The collection can grow beyond any single website
 | [C Pointers Explained](programming/c-pointers-explained.md) | C, pointers, memory, Embedded C |
 | [C Memory Management](programming/c-memory-management-guide.md) | C, malloc, calloc, realloc, free |
 
+| [Python Generators and yield](programming/python-generators-and-yield-guide.md) | Python, generators, lazy iteration |
+| [Python Decorators](programming/python-decorators-explained.md) | Python, wrappers, reusable behavior |
+| [Python Iterables and Iterators](programming/python-iterators-and-iterables-guide.md) | Python, iter(), next(), iteration |
+| [Python Context Managers](programming/python-context-managers-guide.md) | Python, with, resource cleanup |
+| [Python Type Hints](programming/python-type-hints-guide.md) | Python, annotations, static checking |
+| [Python Classes and OOP](programming/python-classes-and-oop-guide.md) | Python, classes, inheritance, composition |
+| [Python Dataclasses](programming/python-dataclasses-guide.md) | Python, dataclasses, structured data |
+| [Python File Handling](programming/python-file-handling-guide.md) | Python, files, pathlib, encoding |
+| [Python Logging](programming/python-logging-guide.md) | Python, logging, handlers, observability |
+| [Python Dependency Management](programming/python-virtual-environments-and-dependencies-guide.md) | Python, pip, venv, lock files |
+| [JavaScript Closures](programming/javascript-closures-explained.md) | JavaScript, lexical scope, functions |
+| [JavaScript Prototypes and Inheritance](programming/javascript-prototypes-and-inheritance-guide.md) | JavaScript, prototypes, classes |
+| [JavaScript Array Methods](programming/javascript-array-methods-guide.md) | JavaScript, map, filter, reduce |
+| [JavaScript ES Modules](programming/javascript-es-modules-guide.md) | JavaScript, import, export, modules |
+| [JavaScript Error Handling](programming/javascript-error-handling-guide.md) | JavaScript, try, catch, promises |
+| [TypeScript Generics](programming/typescript-generics-guide.md) | TypeScript, generics, constraints |
+| [TypeScript Utility Types](programming/typescript-utility-types-guide.md) | TypeScript, Partial, Pick, Omit, Record |
+| [C Structures, Unions, and Enums](programming/c-structs-unions-and-enums-guide.md) | C, structures, unions, enumerations |
+| [C Functions and Header Files](programming/c-functions-and-header-files-guide.md) | C, declarations, definitions, linkage |
+| [C++ Smart Pointers](programming/cpp-smart-pointers-guide.md) | C++, unique_ptr, shared_ptr, weak_ptr |
 ## Computer science
 
 | Article | Topics |
