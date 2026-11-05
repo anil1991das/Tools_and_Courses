@@ -210,6 +210,7 @@ Articles are grouped by topic. The collection can grow beyond any single website
 | [Sort Text Lines](developer-tools/sort-text-lines-guide.md) | Text sorting, data cleanup |
 | [How to Reverse Text](developer-tools/reverse-text-guide.md) | Strings, text processing |
 
+| [Online Generator Tools Explained](developer-tools/generator-tools-guide.md) | UUIDs, random strings, passwords, QR codes |
 ## Security basics
 
 | Article | Topics |
@@ -223,6 +224,7 @@ Articles are grouped by topic. The collection can grow beyond any single website
 | [Password Hashing: Argon2id and bcrypt](security/password-hashing-bcrypt-argon2-guide.md) | Password storage, Argon2id, bcrypt |
 | [Multi-Factor Authentication](security/multi-factor-authentication-explained.md) | MFA, TOTP, passkeys, security keys |
 
+| [Online Security Tools Explained](security/security-tools-guide.md) | Passwords, hashes, checksums, tokens, JWTs |
 ## Image tools
 
 | Article | Topics |
