@@ -67,6 +67,8 @@ Articles are grouped by topic. The collection can grow beyond any single website
 | [Test-Driven Development](software-testing/test-driven-development-guide.md) | TDD, Red Green Refactor, test design |
 | [Load Testing vs Stress Testing](software-testing/load-testing-vs-stress-testing-guide.md) | Performance testing, capacity, latency |
 
+| [Unit Testing Embedded C](software-testing/unit-testing-embedded-c-guide.md) | Host tests, hardware abstraction, fakes |
+| [Hardware-in-the-Loop Testing](software-testing/hardware-in-the-loop-testing-guide.md) | HIL, real-time simulation, ECU validation |
 ## Cloud computing
 
 | Article | Topics |
@@ -145,6 +147,24 @@ Articles are grouped by topic. The collection can grow beyond any single website
 | [DMA Cache Coherency](embedded-systems/dma-cache-coherency-guide.md) | Cache clean, invalidate, buffer ownership |
 | [Automotive Ethernet](embedded-systems/automotive-ethernet-explained.md) | 100BASE-T1, 1000BASE-T1, vehicle networking |
 
+| [AUTOSAR Communication Stack Explained](embedded-systems/autosar-communication-stack-explained.md) | COM, PduR, CanIf, CAN stack |
+| [AUTOSAR COM Signals and I-PDU Routing](embedded-systems/autosar-com-signal-pdu-routing-guide.md) | Signals, I-PDUs, routing, timing |
+| [AUTOSAR CanIf and CanTp](embedded-systems/autosar-canif-cantp-explained.md) | CAN interface, transport protocol, ISO-TP |
+| [CAN Bus Arbitration and Error Handling](embedded-systems/can-bus-arbitration-and-error-handling.md) | Arbitration, error counters, bus-off |
+| [CAN ISO-TP Explained](embedded-systems/can-isotp-explained.md) | Single Frame, First Frame, Flow Control |
+| [UDS ReadDTCInformation (0x19)](embedded-systems/uds-read-dtc-information-guide.md) | DTCs, status masks, diagnostic records |
+| [UDS DiagnosticSessionControl (0x10)](embedded-systems/uds-diagnostic-session-control-guide.md) | Sessions, P2/P2*, TesterPresent |
+| [DoIP: Diagnostics over IP](embedded-systems/doip-diagnostics-over-ip-guide.md) | ISO 13400, logical addressing, UDS |
+| [DMA in Embedded Systems](embedded-systems/dma-explained-embedded-systems.md) | Buffers, transfers, interrupts, cache |
+| [Memory-Mapped Registers in Embedded C](embedded-systems/memory-mapped-registers-embedded-c-guide.md) | MMIO, registers, volatile, masks |
+| [Embedded Bootloader and Firmware Update](embedded-systems/bootloader-firmware-update-explained.md) | Boot flow, image validation, recovery |
+| [Firmware Over-the-Air Updates](embedded-systems/firmware-over-the-air-update-guide.md) | FOTA, signing, staged rollout |
+| [Automotive Ethernet PHY Troubleshooting](embedded-systems/ethernet-phy-link-troubleshooting-guide.md) | Link, PHY, MAC, cable diagnostics |
+| [Embedded C: volatile, const, and static](embedded-systems/embedded-c-volatile-const-static-guide.md) | C qualifiers, storage, linkage |
+| [Bitwise Operations in Embedded C](embedded-systems/embedded-c-bitwise-operations-guide.md) | Masks, shifts, register fields |
+| [CAN DBC Files Explained](embedded-systems/can-dbc-network-description-guide.md) | Signals, IDs, scaling, byte order |
+| [ECU Boot Time Measurement](embedded-systems/ecu-boot-time-measurement-guide.md) | Startup milestones, trace, timing |
+| [AUTOSAR DCM Explained](embedded-systems/autosar-dcm-diagnostic-communication-manager-guide.md) | UDS services, sessions, security |
 ## Developer tools and text processing
 
 | Article | Topics |
